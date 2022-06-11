@@ -13,7 +13,7 @@
 
 The file will be located in ```build/libs/revanced-patches-VERSION.jar```
 
-Renamed the jar to revanced-cli.jar
+Rename the jar to revanced-cli.jar
 
 # Next Step
 

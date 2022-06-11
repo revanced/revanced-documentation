@@ -11,6 +11,9 @@ gpr.user = YourUsername
 gpr.key = ghp_longrandomkey
 ```
 
+# Next Step
+[Buidling the Revanced patcher](building-ReVanced-patcher.md)
+
 # Overview
 
 
