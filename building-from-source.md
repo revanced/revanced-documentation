@@ -1,7 +1,5 @@
 # Building from source
 
-If you have already downloaded the prebuilt packages you can skip to [Using the ReVanced CLI and installing ReVanced.](using-the-revanced-cli-and-installing.md) 
-
 Before continuing you need to be authenticated to GitHub Packages. 
 
  This will assume you have a GitHub account. Create a PAT with the scope ```read:packages``` here and add your token to ~/.gradle/gradle.properties. 
