@@ -6,6 +6,8 @@
 - Android SDK if you plan to build the integrations from source.
 
 
+# Next Step
+[Building from source](building-from-source.md)
 
 # Overview
 - [Prerequities](Prerequisites.md)
