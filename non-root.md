@@ -1,11 +1,10 @@
 # ReVanced Documentation
 
-Instructions to build and install ReVanced.
+Instructions to build and install ReVanced Non-root variant.
 
 # Wiki
 
-- [Prerequisites](https://github.com/revanced/revanced-documentation/wiki/Prerequisites)
-  - [Downloading prebuilt packages](https://github.com/revanced/revanced-documentation/wiki/Downloading-prebuilt-packages)
+- [Prerequisites](Prerequisites.md)
   - [Building from source](https://github.com/revanced/revanced-documentation/wiki/Building-from-source)
     - [1. Building the ReVanced patcher](https://github.com/revanced/revanced-documentation/wiki/Building-the-ReVanced-patcher)
     - [2. Building the ReVanced patches](https://github.com/revanced/revanced-documentation/wiki/Building-the-ReVanced-patches)
