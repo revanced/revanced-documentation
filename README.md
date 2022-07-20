@@ -12,3 +12,4 @@ Instructions to build and install ReVanced.
     - [3. Building the ReVanced integrations](https://github.com/revanced/revanced-documentation/wiki/Building-the-ReVanced-integrations)
     - [4. Building the ReVanced CLI](https://github.com/revanced/revanced-documentation/wiki/Building-the-ReVanced-CLI)
 - [Using the ReVanced CLI and installing ReVanced](https://github.com/revanced/revanced-documentation/wiki/Using-the-ReVanced-CLI-and-installing-ReVanced)
+- [Common issues](https://github.com/revanced/revanced-documentation/wiki/Common-issues)
